@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+
+form{
+    margin: 10%;
+    padding: 10%;
+    line-height: 2rem;
+    background: linear-gradient(rgb(233, 211, 232), rgb(190, 53, 138), rgb(245, 38, 159));
+}
+
+.table{
+    padding: 30px;
+    background: rgb(255, 0, 170);
+    opacity: 0.5;
+    color:black;
+    justify-content: center;
+
+}
